@@ -1,0 +1,44 @@
+[
+    {
+        "carouseles": "Series",
+        "items" : [
+            {
+                "img": "https://courseit.io/static/courflix/assets/preview-1.jpg"
+            },
+            {
+                "img": "https://courseit.io/static/courflix/assets/preview-2.jpg"
+            },
+            {
+                "img": "https://courseit.io/static/courflix/assets/preview-3.jpg"
+            }
+        ]
+    },
+    {
+        "carouseles": "Continuar viendo contenido de Hernan",
+        "items" : [
+            {
+                "img": "https://courseit.io/static/courflix/assets/preview-8.jpg"
+            },
+            {
+                "img": "https://courseit.io/static/courflix/assets/preview-9.jpg"
+            },
+            {
+                "img": "https://courseit.io/static/courflix/assets/preview-10.jpg"
+            }
+        ]
+    },
+    {
+        "carouseles": "Volver a verlas",
+        "item": [
+            {
+                "img": "https://courseit.io/static/courflix/assets/preview-15.jpg"
+            },
+            {
+                "Img": "https://courseit.io/static/courflix/assets/preview-16.jpg"
+            },
+            {
+                "img": "https://courseit.io/static/courflix/assets/preview-11.jpg"
+            }
+        ]
+    }
+]
